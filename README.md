@@ -3,9 +3,9 @@ Arduino controller to control some of the basic laptop functionality without hav
 You may control up to 6 functionality.
 
 Project member:
-> J. Willliam
-> Yermolayev
-> Nathanael
+<br> > J. Willliam </br>
+<br> > Yermolayev </br>
+<br> > Nathanael </br>
 
 ## Stuff needed
 1. Arduino Leonardo
