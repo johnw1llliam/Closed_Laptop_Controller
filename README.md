@@ -4,7 +4,7 @@ You may control up to 6 functionality.
 
 Project member:
 <br> > J. Willliam </br>
-<br> > Yermolayev </br>
+> Yermolayev
 <br> > Nathanael </br>
 
 ## Stuff needed
