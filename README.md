@@ -5,7 +5,7 @@ You may control up to 6 functionality.
 Project member:
 * Willliam
 * Yermolayev
-* Nathanael
+* Ping Shen
 
 ## Stuff needed
 1. Arduino Leonardo
